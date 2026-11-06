@@ -55,9 +55,9 @@ first - and the answer comes back right in the editor. Please add a screenshot o
 
 ## ✨ What's new
 
-**0.35.5**: **fixes only** - about 75 fixes from players' and testers' reports (Rome with more than 20 playable factions, Rename a faction, New mod folder, Map size, ports and towns where the game crashed, the 3D map and View in 3D, Player Diplomacy, Victory conditions); the exe is built with Nuitka; a Linux program beside it.
+**0.35.5**: about 75 fixes from players' and testers' reports; a Linux version beside the Windows one.
 
-**0.35.4**: **a mod, a map or a faction from zero**, step by step; **paint right on the 3D map**; **Themes** and the editor's own look; **Buildings by faction** - a faction's chains and the units each level recruits, as the game shows them; **Delete a unit** and the texts players read for it; the **Layout board** - every page of the editor on one canvas; Interface > **Campaign HUD** and **Sprite sheets**; the **Climate library**; a **Painted look** for unit cards; every fix of 0.35.1 - 0.35.3 and many more. Older versions: [CHANGELOG.md](CHANGELOG.md).
+**0.35.4**: a whole mod, map or faction from zero, step by step; paint right on the 3D map; themes and your own look for the editor. Older versions: [CHANGELOG.md](CHANGELOG.md).
 
 ## 🔗 Links
 
