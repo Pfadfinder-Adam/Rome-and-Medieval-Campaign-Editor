@@ -106,9 +106,8 @@ This program transfers nothing to other networked systems unless you press **Sen
 Copyright (C) 2026 Pfadfinder (Adam) - [Pfadfinder-Adam](https://github.com/Pfadfinder-Adam), the author of
 Rome and Medieval Campaign Editor.
 
-The editor is licensed under the [PolyForm Perimeter License 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0):
-use it, change it and share it for any mod - but not to make or offer a product that competes with it. Everything
-you make with it is yours. Downloading or using the editor means you agree to the license; the editor asks again on
+The editor is licensed under the [PolyForm Perimeter License 1.0.0](https://polyformproject.org/licenses/perimeter/1.0.0).
+Downloading or using the editor means you agree to the license; the editor asks again on
 its first start. The full text: [LICENSE](LICENSE). Versions up to 0.35.4 were released under GPL-3.0 and stay under it.
 
 An unofficial fan tool, not made, approved or supported by SEGA or Creative Assembly. Total War, Rome: Total War and
