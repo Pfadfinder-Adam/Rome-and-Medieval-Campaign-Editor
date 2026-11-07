@@ -4,7 +4,7 @@ Required Notice: Copyright (C) 2026 Pfadfinder (Adam) - https://github.com/Pfadf
 Required Notice: Parts made by others are not under these terms; they are named in THIRD-PARTY-NOTICES.
 Required Notice: The names RMCE and Rome and Medieval Campaign Editor are not licensed by these terms.
 
-The editor is licensed under the PolyForm Perimeter License 1.0.0, written out below unchanged in its words.
+The editor is licensed under the PolyForm Perimeter License 1.0.1, written out below unchanged in its words.
 
 This license applies to every version of the editor released with it or after it. Versions up to and including
 0.35.4 were released under the GNU General Public License v3.0 and stay under it; versions from 0.35.5 up to the
@@ -15,9 +15,9 @@ Interactive; you need your own copy of the game. What the editor sends, and only
 
 ----------------------------------------------------------------------------------------------------------------
 
-PolyForm Perimeter License 1.0.0
+PolyForm Perimeter License 1.0.1
 
-https://polyformproject.org/licenses/perimeter/1.0.0
+https://polyformproject.org/licenses/perimeter/1.0.1
 
 Acceptance
 
@@ -63,7 +63,7 @@ Competition
 If you use this software to market a product as a substitute for the functionality or value of the software, it
 competes with the software. A product may compete regardless how it is designed or deployed. For example, a product
 may compete even if it provides its functionality via any kind of interface (including services, libraries or
-plug-ins), even if it is ported to a different platforms or programming languages, and even if it is provided free
+plug-ins), even if it is ported to a different platform or programming language, and even if it is provided free
 of charge.
 
 Fair Use
