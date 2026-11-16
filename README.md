@@ -13,6 +13,16 @@ pictures - all in one window, no digging through files. Every change is shown be
 **▶ [What the editor does, in a few minutes](https://www.youtube.com/watch?v=m1sCPg-Lzsw)** · more videos:
 [YouTube](https://www.youtube.com/channel/UC8j5rv6mTmtvRR8u7NmaCvQ)
 
+> [!CAUTION]
+> **This release is not supported right now.**
+>
+> The author is busy rewriting the whole program in a new language. Until the new version is ready:
+> - the current release gets no fixes and no updates;
+> - bug reports for this version will not be answered;
+> - you can still use it, but at your own risk. Make a backup of your mod first.
+>
+> The new version will come as a new release on this page. Thanks for sticking around.
+
 ## 🚀 Get started
 
 1. **Get** `RTW-M2TW-Campaign-Editor.exe` from this repository's **Releases** (on the right of this page) - only from
